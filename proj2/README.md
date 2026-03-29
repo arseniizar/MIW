@@ -2,6 +2,8 @@
 
 Comparison of classification models on a `make_moons` dataset (10 000 samples, noise=0.4).
 
+![boundaries](decision_boundaries.png)
+
 ## Usage
 
 ```bash

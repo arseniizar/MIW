@@ -2,6 +2,8 @@
 
 Simulation of RPS where a Markov player follows a fixed transition matrix and a Bayesian learner adapts to beat it over 1000 rounds.
 
+![score](rps_score.png)
+
 ## Usage
 
 ```bash
