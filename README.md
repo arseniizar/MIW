@@ -23,4 +23,4 @@ pip install numpy matplotlib scikit-learn pandas tensorflow yfinance
 
 The final project requires a working installation of **SWI-Prolog** (or any compatible Prolog interpreter).
 
-- [Download SWI-Prolog](https://www.swi-prolog.org/Download.html)
+[Download SWI-Prolog](https://www.swi-prolog.org/Download.html)
